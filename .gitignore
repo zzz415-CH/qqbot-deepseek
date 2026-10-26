@@ -1,0 +1,23 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# 登录凭据 / 二维码（绝不提交）
+*.png
+qr_url.txt
+.env
+*.log
+
+# 本机工具与备份
+.tools/
+hosts.backup-*
+
+# 个人文档，不属于本仓库
+*.docx
+
+# OS
+Thumbs.db
+.DS_Store
